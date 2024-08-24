@@ -25,3 +25,16 @@ main {
 footer {
   padding: 20px;
 }
+
+/* App.css */
+
+/* Estilo para o contêiner da imagem */
+.imageContainer {
+  overflow: hidden; /* Garante que a imagem não saia do contêiner */
+}
+
+/* Efeito de zoom na imagem */
+.imageContainer:hover .image {
+  transform: scale(1.1); /* Amplia a imagem em 10% ao passar o mouse */
+}
+

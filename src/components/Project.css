@@ -1,0 +1,44 @@
+.project {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: center;
+    border: 1px solid #ff69b4;
+    position: relative;
+  }
+  
+  .imageContainer {
+    display: block;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    position: relative;
+  }
+  
+  .image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+    display: block;
+  }
+  
+  /* Efeito de zoom na imagem ao passar o mouse */
+  .imageContainer:hover .image {
+    transform: scale(1.1); /* Amplia a imagem */
+  }
+  
+  .title {
+    font-size: 24px;
+    margin: 10px 0;
+    color: #ff69b4;
+  }
+  
+  .description {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+  
