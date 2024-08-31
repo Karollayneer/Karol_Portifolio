@@ -33,12 +33,16 @@ function App() {
           link="https://github.com/Karollayneer/Tkinter"  // Link para o projeto 2
         />
         
-        {/* <Project
-          title="projeto 3"
-          description="descrição"
+         <Project
+          title="Aplicativo de finança pessoal"
+          description="O aplicativo de Controle Financeiro Pessoal desenvolvido em Python utiliza 
+          Streamlit para criar gráficos interativos que ajudam a visualizar despesas e receitas. 
+          Ele permite adicionar e atualizar dados financeiros, facilitando o acompanhamento das 
+          finanças de forma simples e intuitiva."
           image="/images/projeto3.jpg" 
-          link="link do projeto"  
+          link="https://github.com/Karollayneer/Grafico_finan-a"  
         />
+        {/*
           <Project
           title="projeto 4"
           description="descriçãp"

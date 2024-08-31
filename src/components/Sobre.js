@@ -5,12 +5,10 @@ function Sobre() {
     <section style={styles.sobre}>
       <h2 style={styles.title}>Sobre</h2>
       <p style={styles.text}>
-      Sou Karolayne Rodrigues, desenvolvedora especializada em backend e análise de dados. 
-        Tenho paixão por criar soluções robustas e escaláveis, focando em performance e segurança. 
-        Minha experiência inclui a construção de APIs eficientes, otimização de bancos de dados 
-        e transformação de dados em insights estratégicos. Estou sempre em busca de novos desafios 
-        e tecnologias para aprimorar minhas habilidades e contribuir para o sucesso dos projetos 
-        em que trabalho.
+      Sou Karolayne Rodrigues, desenvolvedora especializada em backend e análise de dados, 
+      com foco em soluções escaláveis e seguras. Python é minha principal linguagem, e 
+      também tenho conhecimentos em React. Tenho experiência na criação de APIs e na transformação
+       de dados em insights valiosos, sempre buscando novos desafios e tecnologias.
       </p>
     </section>
   );

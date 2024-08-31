@@ -9,6 +9,11 @@ function Footer() {
         <a href="https://www.linkedin.com/in/karolayne-rodrigues-794164245/" target="_blank" rel="noopener noreferrer" style={styles.link}>
           LinkedIn
         </a>
+
+        <a href="https://wa.me/5521968828746" target="_blank" rel="noopener noreferrer" style={styles.link}>
+          WhatsApp
+        </a>
+
         <a href="https://github.com/Karollayneer" target="_blank" rel="noopener noreferrer" style={styles.link}>
           GitHub
         </a>
