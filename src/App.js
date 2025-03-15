@@ -32,16 +32,29 @@ function App() {
           image="/images/projeto2.jpg"  // Caminho para a imagem do projeto 2
           link="https://github.com/Karollayneer/Tkinter"  // Link para o projeto 2
         />
-        
-         <Project
+
+        <Project
           title="Aplicativo de finança pessoal"
           description="O aplicativo de Controle Financeiro Pessoal desenvolvido em Python utiliza 
           Streamlit para criar gráficos interativos que ajudam a visualizar despesas e receitas. 
           Ele permite adicionar e atualizar dados financeiros, facilitando o acompanhamento das 
           finanças de forma simples e intuitiva."
-          image="/images/projeto3.jpg" 
-          link="https://github.com/Karollayneer/Grafico_finan-a"  
+          image="/images/projeto3.jpg"
+          link="https://github.com/Karollayneer/Grafico_finan-a"
         />
+
+        <Project
+          title="Desenvolvimento de Aplicativo de Gerenciamento de Pacientes"
+          description="Criei um aplicativo usando Flask e SQLite que permite adicionar, editar, pesquisar e excluir 
+          pacientes de forma eficiente.
+          Funcionalidades principais: 
+          Cadastro e pesquisa de pacientes Edição e exclusão 
+          com confirmação Geração de relatórios 🔧 
+          Tecnologias: Flask, SQLAlchemy, Bootstra"
+          image="/images/projeto4.jpg"
+          link="https://github.com/Karollayneer/Site-nutri"
+        />
+
         {/*
           <Project
           title="projeto 4"
@@ -49,7 +62,23 @@ function App() {
           image="/images/projeto4.jpg" 
           link="link do projeto"  
         />*/}
-        
+
+        {/*
+          <Project
+          title="projeto 4"
+          description="descriçãp"
+          image="/images/projeto4.jpg" 
+          link="link do projeto"  
+        />*/}
+
+        {/*
+          <Project
+          title="projeto 4"
+          description="descriçãp"
+          image="/images/projeto4.jpg" 
+          link="link do projeto"  
+        />*/}
+
       </main>
       <Footer />
     </div>
